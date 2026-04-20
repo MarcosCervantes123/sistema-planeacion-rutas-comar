@@ -129,6 +129,8 @@ Todas las clases:
 
 Estan ligadas directamente a la rama develop. Una vez que todos los cambios se validan se hace un pull request de develop a main. 
 
+La versión actual del sistema funciona como una aplicación de consola con datos de ejemplo definidos en la clase principal, lo cual permite validar la logica general del proyecto y su correcta ejecución mediante un archivo JAR funcional. En el futuro se podria incorporar una entrada interactiva de datos y almacenamiento constante.
+
 **Roadmap**
 **Mejoras futuras**
 <img width="468" height="1550" alt="Roadmap" src="https://github.com/user-attachments/assets/6cefe7e6-c1ec-4bbf-9226-82a771c38625" />
