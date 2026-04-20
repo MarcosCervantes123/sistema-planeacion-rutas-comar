@@ -27,7 +27,7 @@ Desarrollar un sistema en JAVA que permita hacer lo siguiente:
 <img width="900" height="1004" alt="Arquitectura Fase 4" src="https://github.com/user-attachments/assets/1626f0eb-b568-44f2-abaa-9dd08eb38b29" />
 
 
-- Fase3MarcosCervantes.java es la clase principal.
+- Fase3MarcosCervantes.java es la clase principal. (Este nombre de clase se usa unicamente para las entregas de este taller)
 - SistemaPlaneacion.java tiene el sistema y la logica general.
 - Pedido.java maneja la informacion de pedidos.
 - Ruta.java maneja la informacion de rutas.
